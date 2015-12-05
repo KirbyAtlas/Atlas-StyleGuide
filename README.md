@@ -1,2 +1,3 @@
 # AtlasStyleGuide
-to create application standards and behavioral guide
+We are using this space to communicate working standards, behaviors and controls used in the Atlas Applications.
+
